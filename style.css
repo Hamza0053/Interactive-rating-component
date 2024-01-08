@@ -97,7 +97,7 @@ section{
     border-radius: 5rem;
 }
 .button-list button:hover{
-    background-color: var(--clr-orange);
+    background-color: var(--clr-grey-400);
     color: var(--clr-white);
     cursor: pointer;
 }
